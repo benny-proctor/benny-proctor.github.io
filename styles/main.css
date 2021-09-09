@@ -9,18 +9,19 @@ justify-content: center;
 margin: auto;
 }
 
-h1 {
-font-size: 24px;
-
+h1, h2 {
+font-size: 32px;
+margin-top: 24px;
+margin-bottom: 24px;
 }
 
 p {
-font-size: 16px;
-
+font-size: 24px;
+margin-top: 16px;
+margin-bottom: 16px;
 }
 
 footer {
 justify-content: center;
 
 }
-
