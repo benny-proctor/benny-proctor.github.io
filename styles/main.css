@@ -1,27 +1,30 @@
 body {
-background-color: black;
+background-color: rgb(202, 202, 202);
 margin: auto;
+display: flex;
 justify-content: center;
 }
 
 head {
+display: flex;
 justify-content: center;
 margin: auto;
 }
 
-h1, h2 {
-font-size: 32px;
+h1, h2, h3 {
+font-size: 24px;
 margin-top: 24px;
 margin-bottom: 24px;
+color: black
 }
 
 p {
-font-size: 24px;
-margin-top: 16px;
-margin-bottom: 16px;
+font-size: 28px;
+margin-top: 8px;
+margin-bottom: 8px;
+color: black;
 }
 
 footer {
-justify-content: center;
 
 }
